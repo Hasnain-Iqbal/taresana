@@ -1,0 +1,14 @@
+#header {
+    background-color: #f36a22;
+}
+.pageNav2 .navbar-nav a, .wishListII a {
+    color: #fff !important;
+
+}
+.pageNav2 .navbar-nav a:hover {
+    color: #fff !important;
+    border-color: #fff !important;
+}
+.wishListII a:hover {
+    color: #fff !important;
+}
